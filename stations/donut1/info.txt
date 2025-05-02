@@ -1,0 +1,8 @@
+This version was Donut1 as of March 20th, 2009.
+
+The version in the second folder was before the atmospherics changes of December 16, 2008. 
+It requires a path change of /obj/item/weapon/bottle/beer -> /obj/item/weapon/drink/beer before compiling.
+
+To run these maps, download Byond 438.1014 for an exact match of what the developers likely had. (Download the zip, it won't fuck up your existing download.)
+
+https://github.com/Supermichael777/goonstationrepo/commit/08774cbe94c51d7230fc5d4a558a4ec901aca77c

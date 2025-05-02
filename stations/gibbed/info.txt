@@ -1,0 +1,9 @@
+Extremely ancient, it even uses the old dmp extension instead of dmm.
+This is the map of goonstation as it was in March 20, 2008.
+
+Since this map is so ungodly old, while 355.914 would be the correct version, it's visuals are corrupted. Thus, 400.952 is the next best.
+Since this version has no zip, if you wish to avoid fucking up your install, you'll need to extract the exe. 7-zip works.
+
+If you don't care that much for accuracy to the original experience, the zip of 438.1014 also does work, no promises it will act like the original though.
+
+https://github.com/Laboredih123/goonrevision964/commit/fdf619a8cafd39ee150d1b2f7be440218eabeba9
